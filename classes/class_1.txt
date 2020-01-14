@@ -1,0 +1,14 @@
+Employees
+
+attributes:
+name (string)
+title (string)
+year_started (integer)
+can_work_nights? (boolean)
+days_available (array)
+
+methods:
+promote_to_manager (changes title attribute to manager)
+add_to_night_shift (changes can_work_nights to True)
+years_employed (subtracts year_started from 2020)
+available_friday (adds friday to the days_available array)
