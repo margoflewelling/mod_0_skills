@@ -1,0 +1,12 @@
+Breakfast Burrito
+
+meal: "breakfast"
+price: 8.50
+is_a_special?: false
+ingredients: ["eggs", "cheese", "sausage", "avocado"]
+
+methods:
+move_to_lunch_menu: meal = "lunch"
+increase_price_10_percent: price = 9.35
+make_special: special = true
+add_sweet_potatoes: ingredients = ["eggs", "cheese", "sausage", "avocado", "sweet potatoes"]
