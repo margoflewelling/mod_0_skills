@@ -1,0 +1,13 @@
+Dishes
+
+attributes:
+meal (string)
+price (float)
+is_a_special? (boolean)
+ingredients (array)
+
+methods:
+move_to_lunch_menu (changes meal to "lunch")
+increase_price_10_percent (increases the price by 10%)
+make_special (changes is_a_special to true)
+add_sweet_potatoes (adds "sweet potatoes" to the ingredients array)
