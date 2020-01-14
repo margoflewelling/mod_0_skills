@@ -1,0 +1,26 @@
+How to become a Turing Student
+
+1. Make sure Turing is the right choice
+  1.1 Try Coding
+     1.1.1 Attend a turing try-coding event
+     1.1.2 Try coding on your own from home
+  1.2 Research Turing and other coding schools
+     1.2.1 Figure out if you prefer back-end or front-end
+  1.3 Figure out financial options
+     1.3.1 Look into loan options
+2. Apply
+  2.1 Complete Turings online application
+  2.2 Do an in-person or over the phone interview
+     2.2.1 Do well on the logic portion
+  2.3 Pay deposit
+     2.3.1 Receive new macbook!
+  2.4 Enroll in a Mod 0 class
+3. Do Prep Work
+  3.1 Get your laptop ready by following the computer prep work
+  3.2 Complete your mod 0 class
+     3.2.1 Attend all 6 sessions
+     3.2.2 Complete assignments on time
+     3.2.3 Complete the mod 0 technical assessment
+     3.2.4 Get to know your future classmates
+  3.3 Complete your mod 0 Capstone project
+4. Get excited about Turing!
