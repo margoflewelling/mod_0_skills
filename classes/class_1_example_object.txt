@@ -1,0 +1,14 @@
+Chelsea
+
+attributes:
+name: "Chelsea"
+title: "Server"
+year_started: 2016
+can_work_nights?: false
+days_available: ["sunday", monday", "tuesday", "wednesday"]
+
+
+promote_to_manager:  title = "Manager"
+add_to_night_shift: can_work_nights = true
+years_employed: 2020-2016 = 4
+available_friday: days_available = ["sunday", monday", "tuesday", "wednesday", "friday"]
